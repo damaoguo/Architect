@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-05T07:39:51.597Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="uatOdSVFouTojZ9YmW3L" version="15.4.1" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2021-10-05T07:52:52.535Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="Hh41Scuz036b9qcH9Q09" version="15.4.1" type="github" pages="23">
   <diagram id="KUj-8JV4BBdcBEHbejLZ" name="单例模式">
     <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1205,36 +1205,63 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nhVetUrkFUacykZHw_5l" name="备忘录模式">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="677" dy="363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="bhn9MDwP3lYitTSDxGO--0" />
         <mxCell id="bhn9MDwP3lYitTSDxGO--1" parent="bhn9MDwP3lYitTSDxGO--0" />
-        <mxCell id="9NZflrgK6IgsxeuBO6ge-0" value="" style="group" vertex="1" connectable="0" parent="bhn9MDwP3lYitTSDxGO--1">
-          <mxGeometry x="80" y="550" width="600" height="460" as="geometry" />
+        <mxCell id="9NZflrgK6IgsxeuBO6ge-0" value="" style="group" parent="bhn9MDwP3lYitTSDxGO--1" vertex="1" connectable="0">
+          <mxGeometry x="90" y="540" width="600" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="9NZflrgK6IgsxeuBO6ge-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9NZflrgK6IgsxeuBO6ge-0">
+        <mxCell id="9NZflrgK6IgsxeuBO6ge-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="9NZflrgK6IgsxeuBO6ge-0" vertex="1">
           <mxGeometry width="600" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="9NZflrgK6IgsxeuBO6ge-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9NZflrgK6IgsxeuBO6ge-0">
+        <mxCell id="9NZflrgK6IgsxeuBO6ge-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="9NZflrgK6IgsxeuBO6ge-0" vertex="1">
           <mxGeometry y="80" width="600" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="9NZflrgK6IgsxeuBO6ge-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9NZflrgK6IgsxeuBO6ge-0">
+        <mxCell id="9NZflrgK6IgsxeuBO6ge-3" value="模式名称" style="rounded=0;whiteSpace=wrap;html=1;" parent="9NZflrgK6IgsxeuBO6ge-0" vertex="1">
           <mxGeometry width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9NZflrgK6IgsxeuBO6ge-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9NZflrgK6IgsxeuBO6ge-0">
+        <mxCell id="9NZflrgK6IgsxeuBO6ge-4" value="备忘录模式" style="rounded=0;whiteSpace=wrap;html=1;" parent="9NZflrgK6IgsxeuBO6ge-0" vertex="1">
           <mxGeometry x="150" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9NZflrgK6IgsxeuBO6ge-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9NZflrgK6IgsxeuBO6ge-0">
+        <mxCell id="9NZflrgK6IgsxeuBO6ge-5" value="Memento Pattern" style="rounded=0;whiteSpace=wrap;html=1;" parent="9NZflrgK6IgsxeuBO6ge-0" vertex="1">
           <mxGeometry x="150" y="40" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9NZflrgK6IgsxeuBO6ge-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9NZflrgK6IgsxeuBO6ge-0">
+        <mxCell id="9NZflrgK6IgsxeuBO6ge-6" value="类型" style="rounded=0;whiteSpace=wrap;html=1;" parent="9NZflrgK6IgsxeuBO6ge-0" vertex="1">
           <mxGeometry x="390" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9NZflrgK6IgsxeuBO6ge-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9NZflrgK6IgsxeuBO6ge-0">
+        <mxCell id="9NZflrgK6IgsxeuBO6ge-7" value="12" style="rounded=0;whiteSpace=wrap;html=1;" parent="9NZflrgK6IgsxeuBO6ge-0" vertex="1">
           <mxGeometry x="15" y="90" width="35" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9NZflrgK6IgsxeuBO6ge-8" value="描述：" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9NZflrgK6IgsxeuBO6ge-0">
+        <mxCell id="9NZflrgK6IgsxeuBO6ge-8" value="描述：在不破坏封装性的前提下，捕获一个对象的内部状态，并在该对象之外保存这个状态。这样以后就可将该对象恢复到原先保存的状态。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="9NZflrgK6IgsxeuBO6ge-0" vertex="1">
           <mxGeometry x="30" y="400" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0MiYePs6EV9SYFSmWl6T-0" value="行为类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9NZflrgK6IgsxeuBO6ge-0">
+          <mxGeometry x="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0MiYePs6EV9SYFSmWl6T-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Originator&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;+SetMemento(m: Memento)&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;+CreateMemento()&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="9NZflrgK6IgsxeuBO6ge-0">
+          <mxGeometry x="30" y="200" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0MiYePs6EV9SYFSmWl6T-3" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Caretaker&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="9NZflrgK6IgsxeuBO6ge-0">
+          <mxGeometry x="440" y="197.5" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0MiYePs6EV9SYFSmWl6T-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Memento&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;+GetState()&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;+SetState()&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="9NZflrgK6IgsxeuBO6ge-0">
+          <mxGeometry x="230" y="200" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0MiYePs6EV9SYFSmWl6T-5" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.148;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="9NZflrgK6IgsxeuBO6ge-0" source="0MiYePs6EV9SYFSmWl6T-3" target="0MiYePs6EV9SYFSmWl6T-2">
+          <mxGeometry x="-1" y="3" relative="1" as="geometry">
+            <mxPoint x="250" y="130" as="sourcePoint" />
+            <mxPoint x="379" y="213" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0MiYePs6EV9SYFSmWl6T-6" value="+memento" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9NZflrgK6IgsxeuBO6ge-0">
+          <mxGeometry x="380" y="210" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="0MiYePs6EV9SYFSmWl6T-4" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1.007;exitY=0.133;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.007;entryY=0.132;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="9NZflrgK6IgsxeuBO6ge-0" source="0MiYePs6EV9SYFSmWl6T-1" target="0MiYePs6EV9SYFSmWl6T-2">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="240" y="140" as="sourcePoint" />
+            <mxPoint x="220" y="225" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
