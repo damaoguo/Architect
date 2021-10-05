@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-05T06:12:55.239Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="re-HWnI1Y9uJ5CZSszyg" version="15.4.1" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2021-10-05T06:21:58.763Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="XLobfXAUMHu6EI2Kb6Uy" version="15.4.1" type="github" pages="23">
   <diagram id="KUj-8JV4BBdcBEHbejLZ" name="单例模式">
     <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -473,23 +473,50 @@
         <mxCell id="H7ca-fvo3pmg8A3Oh6S7-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="H7ca-fvo3pmg8A3Oh6S7-0" vertex="1">
           <mxGeometry y="80" width="600" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="H7ca-fvo3pmg8A3Oh6S7-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="H7ca-fvo3pmg8A3Oh6S7-0" vertex="1">
+        <mxCell id="H7ca-fvo3pmg8A3Oh6S7-3" value="模式名称" style="rounded=0;whiteSpace=wrap;html=1;" parent="H7ca-fvo3pmg8A3Oh6S7-0" vertex="1">
           <mxGeometry width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="H7ca-fvo3pmg8A3Oh6S7-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="H7ca-fvo3pmg8A3Oh6S7-0" vertex="1">
+        <mxCell id="H7ca-fvo3pmg8A3Oh6S7-4" value="中介者模式" style="rounded=0;whiteSpace=wrap;html=1;" parent="H7ca-fvo3pmg8A3Oh6S7-0" vertex="1">
           <mxGeometry x="150" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="H7ca-fvo3pmg8A3Oh6S7-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="H7ca-fvo3pmg8A3Oh6S7-0" vertex="1">
+        <mxCell id="H7ca-fvo3pmg8A3Oh6S7-5" value="Mediator Pattern" style="rounded=0;whiteSpace=wrap;html=1;" parent="H7ca-fvo3pmg8A3Oh6S7-0" vertex="1">
           <mxGeometry x="150" y="40" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="H7ca-fvo3pmg8A3Oh6S7-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="H7ca-fvo3pmg8A3Oh6S7-0" vertex="1">
+        <mxCell id="H7ca-fvo3pmg8A3Oh6S7-6" value="类型" style="rounded=0;whiteSpace=wrap;html=1;" parent="H7ca-fvo3pmg8A3Oh6S7-0" vertex="1">
           <mxGeometry x="390" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="H7ca-fvo3pmg8A3Oh6S7-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="H7ca-fvo3pmg8A3Oh6S7-0" vertex="1">
+        <mxCell id="H7ca-fvo3pmg8A3Oh6S7-7" value="11" style="rounded=0;whiteSpace=wrap;html=1;" parent="H7ca-fvo3pmg8A3Oh6S7-0" vertex="1">
           <mxGeometry x="15" y="90" width="35" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H7ca-fvo3pmg8A3Oh6S7-8" value="描述：" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="H7ca-fvo3pmg8A3Oh6S7-0" vertex="1">
+        <mxCell id="H7ca-fvo3pmg8A3Oh6S7-8" value="描述：用一个中介对象封装一系列的对象交互，中介者使各个对象不需要显示地相互作用，从而使其耦合松散，而且可以独立改变它们之间的交互。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="H7ca-fvo3pmg8A3Oh6S7-0" vertex="1">
           <mxGeometry x="30" y="400" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8j0yyxZa9EtEhM1JBuYa-0" value="行为类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="H7ca-fvo3pmg8A3Oh6S7-0">
+          <mxGeometry x="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8j0yyxZa9EtEhM1JBuYa-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Mediator&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="H7ca-fvo3pmg8A3Oh6S7-0">
+          <mxGeometry x="110" y="140" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8j0yyxZa9EtEhM1JBuYa-3" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Colleague&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="H7ca-fvo3pmg8A3Oh6S7-0">
+          <mxGeometry x="365" y="140" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8j0yyxZa9EtEhM1JBuYa-4" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;ConcreteMediator&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="H7ca-fvo3pmg8A3Oh6S7-0">
+          <mxGeometry x="110" y="300" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8j0yyxZa9EtEhM1JBuYa-5" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="H7ca-fvo3pmg8A3Oh6S7-0" source="8j0yyxZa9EtEhM1JBuYa-4" target="8j0yyxZa9EtEhM1JBuYa-2">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="250" y="230" as="sourcePoint" />
+            <mxPoint x="410" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8j0yyxZa9EtEhM1JBuYa-6" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="H7ca-fvo3pmg8A3Oh6S7-0" source="8j0yyxZa9EtEhM1JBuYa-3" target="8j0yyxZa9EtEhM1JBuYa-2">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="250" y="230" as="sourcePoint" />
+            <mxPoint x="410" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8j0yyxZa9EtEhM1JBuYa-7" value="+mediator" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="H7ca-fvo3pmg8A3Oh6S7-0">
+          <mxGeometry x="270" y="155" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
