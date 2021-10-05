@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-05T07:22:02.051Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="L1uRNIpLFOv4s5g1bXNh" version="15.4.1" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2021-10-05T07:26:22.414Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="Oir6w1h2KvWOnbRZ26qM" version="15.4.1" type="github" pages="23">
   <diagram id="KUj-8JV4BBdcBEHbejLZ" name="单例模式">
     <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1397,32 +1397,35 @@
       <root>
         <mxCell id="BrQBuFgsMjtAmf_FgVQ4-0" />
         <mxCell id="BrQBuFgsMjtAmf_FgVQ4-1" parent="BrQBuFgsMjtAmf_FgVQ4-0" />
-        <mxCell id="OVdMB1Qsru8ccC6M4fCW-0" value="" style="group" vertex="1" connectable="0" parent="BrQBuFgsMjtAmf_FgVQ4-1">
+        <mxCell id="OVdMB1Qsru8ccC6M4fCW-0" value="" style="group" parent="BrQBuFgsMjtAmf_FgVQ4-1" vertex="1" connectable="0">
           <mxGeometry x="80" y="550" width="600" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="OVdMB1Qsru8ccC6M4fCW-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="OVdMB1Qsru8ccC6M4fCW-0">
+        <mxCell id="OVdMB1Qsru8ccC6M4fCW-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="OVdMB1Qsru8ccC6M4fCW-0" vertex="1">
           <mxGeometry width="600" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="OVdMB1Qsru8ccC6M4fCW-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="OVdMB1Qsru8ccC6M4fCW-0">
+        <mxCell id="OVdMB1Qsru8ccC6M4fCW-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="OVdMB1Qsru8ccC6M4fCW-0" vertex="1">
           <mxGeometry y="80" width="600" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="OVdMB1Qsru8ccC6M4fCW-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="OVdMB1Qsru8ccC6M4fCW-0">
+        <mxCell id="OVdMB1Qsru8ccC6M4fCW-3" value="模式名称" style="rounded=0;whiteSpace=wrap;html=1;" parent="OVdMB1Qsru8ccC6M4fCW-0" vertex="1">
           <mxGeometry width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OVdMB1Qsru8ccC6M4fCW-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="OVdMB1Qsru8ccC6M4fCW-0">
+        <mxCell id="OVdMB1Qsru8ccC6M4fCW-4" value="享元模式" style="rounded=0;whiteSpace=wrap;html=1;" parent="OVdMB1Qsru8ccC6M4fCW-0" vertex="1">
           <mxGeometry x="150" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OVdMB1Qsru8ccC6M4fCW-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="OVdMB1Qsru8ccC6M4fCW-0">
+        <mxCell id="OVdMB1Qsru8ccC6M4fCW-5" value="Flyweight Pattern" style="rounded=0;whiteSpace=wrap;html=1;" parent="OVdMB1Qsru8ccC6M4fCW-0" vertex="1">
           <mxGeometry x="150" y="40" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OVdMB1Qsru8ccC6M4fCW-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="OVdMB1Qsru8ccC6M4fCW-0">
+        <mxCell id="OVdMB1Qsru8ccC6M4fCW-6" value="类型" style="rounded=0;whiteSpace=wrap;html=1;" parent="OVdMB1Qsru8ccC6M4fCW-0" vertex="1">
           <mxGeometry x="390" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OVdMB1Qsru8ccC6M4fCW-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="OVdMB1Qsru8ccC6M4fCW-0">
+        <mxCell id="OVdMB1Qsru8ccC6M4fCW-7" value="23" style="rounded=0;whiteSpace=wrap;html=1;" parent="OVdMB1Qsru8ccC6M4fCW-0" vertex="1">
           <mxGeometry x="15" y="90" width="35" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OVdMB1Qsru8ccC6M4fCW-8" value="描述：" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OVdMB1Qsru8ccC6M4fCW-0">
+        <mxCell id="OVdMB1Qsru8ccC6M4fCW-8" value="描述：使用共享对象可有效地支持大量的细粒度的对象。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="OVdMB1Qsru8ccC6M4fCW-0" vertex="1">
           <mxGeometry x="30" y="400" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G5r1QjGUMqfbCyZ95cFr-0" value="结构类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="OVdMB1Qsru8ccC6M4fCW-0">
+          <mxGeometry x="480" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
